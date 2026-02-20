@@ -10,7 +10,9 @@ import "fmt"
 */
 
 func main() {
-	fmt.Println("Ambiente configurado por: Diogenes")
+	fmt.Println("Ambiente configurado por: Diogenes Raimundo")
+
+	fmt.Println("Partiu Carnaval, mas com mindset de Alta Performance!)
 
 	fmt.Scanln()
 }
